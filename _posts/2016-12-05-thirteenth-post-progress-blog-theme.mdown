@@ -6,4 +6,4 @@ tags: ['progress']
 author: "Maxgrok"
 ---
 
-I made a new change to the blog layout! 
+What's new? Check it out! There is a new blog layout here!
