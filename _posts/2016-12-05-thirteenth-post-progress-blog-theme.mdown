@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome and Getting Started"
+date:   2016-12-05 22:10:00 +0200
+tags: ['progress']
+author: "Maxgrok"
+---
+
+I made a new change to the blog layout! 
